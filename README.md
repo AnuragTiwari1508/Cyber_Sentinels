@@ -1,4 +1,4 @@
-🚀 Cyber Sentinels
+# 🚀 Cyber Sentinels
 
 ### 🔎 Problem Statement
 
@@ -63,7 +63,7 @@ Security Protocols: AES Encryption, JWT Authentication.
 Deployment: Docker containers, Cloud-ready setup.
 
 
-###🚀 Getting Started
+### 🚀 Getting Started
 
 Follow these steps to set up the project locally.
 
