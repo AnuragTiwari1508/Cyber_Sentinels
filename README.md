@@ -56,10 +56,15 @@ The core of Cyber Sentinels relies on the following technical strategies:
 ### 📊 Specifications 
 
 Programming Language: Python (Backend Processing)
+
 Frameworks & Libraries: Flask/Django for web integration, Scikit-learn/TensorFlow for ML models.
+
 Database: MySQL / MongoDB for logging and analytics.
+
 Frontend: HTML, CSS, JavaScript for user interface.
+
 Security Protocols: AES Encryption, JWT Authentication.
+
 Deployment: Docker containers, Cloud-ready setup.
 
 
