@@ -73,25 +73,25 @@ Git
 Docker (optional for containerized deployment)
 Node.js (if running frontend separately)
 
-Installation
-# Clone the repository
+#Installation
+### Clone the repository
 git clone https://github.com/AnuragTiwari1508/Cyber_Sentinels.git
 cd Cyber_Sentinels
 
-# Create virtual environment
+### Create virtual environment
 python -m venv venv
 source venv/bin/activate # On Windows use venv\Scripts\activate
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
-# Setup database (example for MySQL)
+### Setup database (example for MySQL)
 python manage.py migrate
 
-# Run the server
+### Run the server
 python manage.py runserver
 
-Frontend Setup (if applicable)
+### Frontend Setup (if applicable)
 cd frontend
 npm install
 npm start
