@@ -1,11 +1,11 @@
 🚀 Cyber Sentinels
 
-🔎 Problem Statement
+### 🔎 Problem Statement
 
 In today’s rapidly evolving digital era, cybersecurity threats are increasing both in frequency and complexity. Organizations and individuals face continuous risks from phishing, malware, ransomware, and data breaches. Current solutions often lack real-time adaptability, efficient monitoring, and user-friendly approaches to safeguard sensitive data. This leaves a significant gap in proactive threat detection and prevention.
 
 
-💡Idea & Approach
+### 💡Idea & Approach
 
 Cyber Sentinels aims to build a robust, intelligent, and user-centric cybersecurity solution that provides:
    Real-time Threat Detection using advanced algorithms and monitoring tools.
@@ -16,7 +16,7 @@ Cyber Sentinels aims to build a robust, intelligent, and user-centric cybersecur
 Our solution is designed to create a secure environment by combining automation, AI-driven analysis, and user-centric awareness modules.
 
 
-🛡️ Solution Overview
+### 🛡️ Solution Overview
 
 Our project tackles cybersecurity challenges through an end-to-end defense architecture:
 
@@ -63,7 +63,7 @@ Security Protocols: AES Encryption, JWT Authentication.
 Deployment: Docker containers, Cloud-ready setup.
 
 
-🚀 Getting Started
+###🚀 Getting Started
 
 Follow these steps to set up the project locally.
 
@@ -73,7 +73,7 @@ Git
 Docker (optional for containerized deployment)
 Node.js (if running frontend separately)
 
-⚙️ Installation
+### ⚙️ Installation
 ### Clone the repository
 git clone https://github.com/AnuragTiwari1508/Cyber_Sentinels.git
 cd Cyber_Sentinels
@@ -97,7 +97,7 @@ npm install
 npm start
 
 
-📌 Usage
+### 📌 Usage
 
 Launch the dashboard to monitor threats.
 Get real-time notifications of suspicious activity.
@@ -105,7 +105,7 @@ View reports and logs for analysis.
 Extend the system with additional ML models or datasets.
 
 
-🤝 Help & Contact
+### 🤝 Help & Contact
 
 If you face any issues or have suggestions, feel free to reach out:
 Team Cyber Sentinels
@@ -113,7 +113,7 @@ Team Cyber Sentinels
 🐙 GitHub Issues: Open an Issue
 
 
-📜 License
+### 📜 License
 
 This project is licensed under the MIT License – see the LICENSE
  file for details.
