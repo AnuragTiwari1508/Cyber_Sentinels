@@ -51,7 +51,7 @@ The core of Cyber Sentinels relies on the following technical strategies:
 
 
 ### System Architecture
-
+![image alt](https://github.com/AnuragTiwari1508/Cyber_Sentinels/blob/aad1c8c0d134d0932d50c9d2e7254b6345c54179/ed04094c-d5cb-4f58-ba1d-d2e60b4ebe5e.png)
 
 ### 📊 Specifications 
 
