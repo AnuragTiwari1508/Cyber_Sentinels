@@ -73,7 +73,7 @@ Git
 Docker (optional for containerized deployment)
 Node.js (if running frontend separately)
 
-#Installation
+⚙️ Installation
 ### Clone the repository
 git clone https://github.com/AnuragTiwari1508/Cyber_Sentinels.git
 cd Cyber_Sentinels
