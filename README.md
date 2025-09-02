@@ -73,9 +73,13 @@ Deployment: Docker containers, Cloud-ready setup.
 Follow these steps to set up the project locally.
 
 Prerequisites
+
 Python 3.8+
+
 Git
+
 Docker (optional for containerized deployment)
+
 Node.js (if running frontend separately)
 
 ### ⚙️ Installation
@@ -105,16 +109,22 @@ npm start
 ### 📌 Usage
 
 Launch the dashboard to monitor threats.
+
 Get real-time notifications of suspicious activity.
+
 View reports and logs for analysis.
+
 Extend the system with additional ML models or datasets.
 
 
 ### 🤝 Help & Contact
 
 If you face any issues or have suggestions, feel free to reach out:
+
 Team Cyber Sentinels
+
 📧 Email: [tiwarianurag342409@gmail.com]
+
 🐙 GitHub Issues: Open an Issue
 
 
